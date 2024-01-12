@@ -1,5 +1,4 @@
 # calculator.js
- 
 <h1>Calculator Project</h1>
 
 <h2>Overview</h2>
